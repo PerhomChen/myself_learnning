@@ -16,7 +16,7 @@ public class Apple {
 
     private String color;
 
-    private int heavy;
+    private Integer heavy;
 
     public static boolean isGreenApple(Apple apple) {
         return "green".equals(apple.getColor());

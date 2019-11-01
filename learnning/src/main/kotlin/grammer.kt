@@ -52,7 +52,7 @@ fun main() {
     //使用区间l;类似于java中的可变长度数组参数
     val g = 10
     val h = 9
-    if (g in 1..h+1) {
+    if (g in 1..h + 1) {
         println("fits in range")
     }
 
@@ -108,7 +108,7 @@ fun main() {
 
     //延迟属性;只在第一次调用get会执行传递给lazy（）的lambda表达式，后续调用get（）只是返回记录的结果。
     val p: String by lazy {
-        println( "first output")
+        println("first output")
         "Hello"
     }
 
@@ -129,11 +129,11 @@ fun main() {
     println(files?.size ?: "empty")
 
     //if null 执行一个语句
-    val values = mapOf<String,String>("aa" to "i am aa","bb" to "i am bb")
+    val values = mapOf<String, String>("aa" to "i am aa", "bb" to "i am bb")
     val email = values["aa"] ?: throw IllegalStateException("aa is missing!")
 
     //在可能为null集合中的使用
-    val emails = mapOf<String,String>("aa" to "i am aa","bb" to "i am bb")
+    val emails = mapOf<String, String>("aa" to "i am aa", "bb" to "i am bb")
     //val mainEmail = emails.firstOrNull() ?: ""
 
 
@@ -141,8 +141,6 @@ fun main() {
     values?.let {
         println("values is not null")
     }
-
-
 
 
 }
@@ -193,8 +191,7 @@ fun printProduct(arg1: String, arg2: String) {
     if (x != null && y != null) {
         // 在空检测后，x 与 y 会自动转换为非空值（non-nullable）
         println(x * y)
-    }
-    else {
+    } else {
         println("'$arg1' or '$arg2' is not a number")
     }
 }
@@ -213,11 +210,11 @@ fun getStringLength(obj: Any): Int? {
 //when表达式，类似于java中的switch
 fun describe(obj: Any): String =
     when (obj) {
-        1          -> "One"
-        "Hello"    -> "Greeting"
-        is Long    -> "Long"
+        1 -> "One"
+        "Hello" -> "Greeting"
+        is Long -> "Long"
         !is String -> "Not a string"
-        else       -> "Unknown"
+        else -> "Unknown"
     }
 
 //扩展函数
@@ -248,3 +245,6 @@ fun theAnswer() = 42
 fun theAnswer1(): Int {
     return 42
 }
+
+//创建DTO
+data class Customer(val name: String, val email: String)
