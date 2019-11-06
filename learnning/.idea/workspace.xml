@@ -5,148 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaaa487-c263-43b5-87d4-aba3673315e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/algorithm/CPU_Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java_new_feature/java8/lambda/BufferedReaderProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java_new_feature/java8/lambda/FileHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java_new_feature/java8/lambda/LambdaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java_new_feature/java8/methodRef/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java_new_feature/java8/methodRef/MethodRef.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/GrammerKt$main$$inlined$sortedBy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/GrammerKt$main$p$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/GrammerKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/Resource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/data-container-format-version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/format-version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/gradle-format-version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/learnning10SNAPSHOTjar-classes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/learnning-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/META-INF/learnning.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/algorithm/CPU_Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/capter4_stream/Collect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/capter4_stream/CollectorHarness.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/capter4_stream/ForkJoinSumCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/capter4_stream/PrimeNumbersCollector$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/capter4_stream/PrimeNumbersCollector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/capter4_stream/ToListCollector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/capter4_stream/practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/capter4_stream/stream$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/capter4_stream/stream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/methodRef/MethodRef2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/methodRef/MethodRef2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/CPU_Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/Collect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/CollectorHarness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/ForkJoinSumCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/PrimeNumbersCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/TestForkJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/ToListCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/WordCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter8_design_model/ChainOfResponsibilityModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter8_design_model/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter8_design_model/Factory_lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter8_design_model/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter8_design_model/StrategyMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter8_design_model/test_and_Lambda/testLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/FutureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/exmple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/optional/optional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/java_new_feature/java8/optional.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/java_new_feature/java8/stream.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/Time/ChangeTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/Time/SimpleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/StreamFuture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/GrammerKt$main$$inlined$sortedBy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GrammerKt$main$$inlined$sortedBy$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/GrammerKt$main$p$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GrammerKt$main$p$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/GrammerKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/GrammerKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/Myself.learnning.main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/learnning.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Resource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/lambda/FileHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/lambda/FileHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/lambda/LambdaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/methodRef/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/methodRef/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/methodRef/MethodRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/methodRef/MethodRef.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/methodRef/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/methodRef/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/methodRef/MethodRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/methodRef/MethodRef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/grammer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/grammer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/future/FutureTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/future/FutureTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/future/FutureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/future/FutureTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/future/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/future/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/future/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_new_feature/java8/future/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/FutureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/FutureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/exmple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/exmple.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -187,27 +55,106 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learnning" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/FutureTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/exmple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="-1320">
+              <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3652#3653#0" expanded="true" />
-                <element signature="e#3730#3731#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/StreamFuture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="262" column="27" selection-start-line="262" selection-start-column="27" selection-end-line="262" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#5297#5298#0" expanded="true" />
+                <element signature="e#2433#2434#0" expanded="true" />
+                <element signature="e#2464#2465#0" expanded="true" />
+                <element signature="e#2496#2497#0" expanded="true" />
+                <element signature="e#2524#2525#0" expanded="true" />
+                <element signature="e#2570#2571#0" expanded="true" />
+                <element signature="e#2605#2606#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/exmple.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/Time/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="329">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/OffsetDateTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="275" column="52" lean-forward="true" selection-start-line="275" selection-start-column="52" selection-end-line="275" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/temporal/TemporalAdjusters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1232">
+              <caret line="138" column="30" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/temporal/TemporalAdjuster.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-405">
+              <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/Instant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="206" column="19" selection-start-line="206" selection-start-column="19" selection-end-line="206" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/Duration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-670">
+              <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/temporal/ChronoField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3574">
+              <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -263,6 +210,10 @@
         <option value="$PROJECT_DIR$/src/main/java/java_new_feature/java8/optional/optional.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/Future.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/FutureTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/exmple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/StreamFuture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_new_feature/java8/Time/SimpleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_new_feature/java8/Time/ChangeTime.java" />
       </list>
     </option>
   </component>
@@ -292,6 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -341,26 +293,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="capter4_stream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnning" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="capter4_stream" type="462c0819:PsiDirectoryNode" />
-              <item name="WordCounter.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="learnning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnning" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="future" type="462c0819:PsiDirectoryNode" />
+              <item name="Time" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnning" type="b2602c69:ProjectViewProjectNode" />
@@ -396,13 +329,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572597215226" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573039156983" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -422,70 +354,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test1">
-    <configuration name="Debugging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.capter8_design_model.test_and_Lambda.Debugging" />
+  <component name="RunManager" selected="JUnit.ChangeTime.ZoneIdTest">
+    <configuration name="ChangeTime.TemporalAdjusterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Myself.learnning.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_new_feature.java8.capter8_design_model.test_and_Lambda.*" />
+          <option name="PATTERN" value="java_new_feature.java8.Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="java_new_feature.java8.Time" />
+      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.Time.ChangeTime" />
+      <option name="METHOD_NAME" value="TemporalAdjusterTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factory_lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.capter8_design_model.Factory_lambda" />
+    <configuration name="ChangeTime.ZoneIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Myself.learnning.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_new_feature.java8.capter8_design_model.*" />
+          <option name="PATTERN" value="java_new_feature.java8.Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="java_new_feature.java8.Time" />
+      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.Time.ChangeTime" />
+      <option name="METHOD_NAME" value="ZoneIdTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.future.FutureTest" />
+    <configuration name="ChangeTime.formatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Myself.learnning.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_new_feature.java8.future.*" />
+          <option name="PATTERN" value="java_new_feature.java8.Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="java_new_feature.java8.Time" />
+      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.Time.ChangeTime" />
+      <option name="METHOD_NAME" value="formatTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.future.test1" />
+    <configuration name="SimpleTest.DurationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Myself.learnning.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_new_feature.java8.future.*" />
+          <option name="PATTERN" value="java_new_feature.java8.Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="java_new_feature.java8.Time" />
+      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.Time.SimpleTest" />
+      <option name="METHOD_NAME" value="DurationTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testLambda.testComparingTwoPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleTest.InstantTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Myself.learnning.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_new_feature.java8.capter8_design_model.test_and_Lambda.*" />
+          <option name="PATTERN" value="java_new_feature.java8.Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="java_new_feature.java8.capter8_design_model.test_and_Lambda" />
-      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.capter8_design_model.test_and_Lambda.testLambda" />
-      <option name="METHOD_NAME" value="testComparingTwoPoints" />
+      <option name="PACKAGE_NAME" value="java_new_feature.java8.Time" />
+      <option name="MAIN_CLASS_NAME" value="java_new_feature.java8.Time.SimpleTest" />
+      <option name="METHOD_NAME" value="InstantTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -493,11 +437,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.FutureTest" />
-        <item itemvalue="Application.Debugging" />
-        <item itemvalue="JUnit.testLambda.testComparingTwoPoints" />
-        <item itemvalue="Application.Factory_lambda" />
+        <item itemvalue="JUnit.ChangeTime.ZoneIdTest" />
+        <item itemvalue="JUnit.ChangeTime.formatTest" />
+        <item itemvalue="JUnit.ChangeTime.TemporalAdjusterTest" />
+        <item itemvalue="JUnit.SimpleTest.DurationTest" />
+        <item itemvalue="JUnit.SimpleTest.InstantTest" />
       </list>
     </recent_temporary>
   </component>
@@ -514,17 +458,49 @@
       <workItem from="1571990393088" duration="8874000" />
       <workItem from="1572052233897" duration="16986000" />
       <workItem from="1572226736934" duration="17353000" />
-      <workItem from="1572310822229" duration="47123000" />
+      <workItem from="1572310822229" duration="49333000" />
+      <workItem from="1572831924347" duration="1388000" />
+      <workItem from="1572864016619" duration="1436000" />
+      <workItem from="1572917913485" duration="393000" />
+      <workItem from="1572918338496" duration="620000" />
+      <workItem from="1572920221422" duration="33761000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testLambda_testComparingTwoPoints - 2019.10.30 at 17h 50m 13s.xml">
-      <configuration name="testLambda.testComparingTwoPoints" configurationId="JUnit" />
+    <history-entry file="SimpleTest_DurationTest - 2019.11.06 at 16h 37m 54s.xml">
+      <configuration name="SimpleTest.DurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleTest_DurationTest - 2019.11.06 at 16h 38m 07s.xml">
+      <configuration name="SimpleTest.DurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleTest_DurationTest - 2019.11.06 at 16h 38m 18s.xml">
+      <configuration name="SimpleTest.DurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangeTime_TemporalAdjusterTest - 2019.11.06 at 17h 46m 57s.xml">
+      <configuration name="ChangeTime.TemporalAdjusterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangeTime_formatTest - 2019.11.06 at 18h 01m 42s.xml">
+      <configuration name="ChangeTime.formatTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangeTime_formatTest - 2019.11.06 at 18h 29m 50s.xml">
+      <configuration name="ChangeTime.formatTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangeTime_ZoneIdTest - 2019.11.06 at 18h 57m 36s.xml">
+      <configuration name="ChangeTime.ZoneIdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangeTime_ZoneIdTest - 2019.11.06 at 18h 58m 11s.xml">
+      <configuration name="ChangeTime.ZoneIdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangeTime_ZoneIdTest - 2019.11.06 at 18h 58m 50s.xml">
+      <configuration name="ChangeTime.ZoneIdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangeTime_ZoneIdTest - 2019.11.06 at 19h 04m 11s.xml">
+      <configuration name="ChangeTime.ZoneIdTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90336000" />
+    <option name="totallyTimeSpent" value="130144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -533,20 +509,20 @@
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.50067115" side_tool="true" weight="0.2707889" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25746268" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49932885" visible="true" weight="0.2707889" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.22557172" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.32848233" />
       <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.44594595" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32952183" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.3846154" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.3991684" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -599,56 +575,33 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/CPU_Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/lambda/BufferedReaderProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/lambda/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/methodRef/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3014">
-          <caret line="181" column="14" selection-start-line="181" selection-start-column="14" selection-end-line="181" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14388">
-          <caret line="708" column="59" selection-start-line="708" selection-start-column="59" selection-end-line="708" selection-end-column="59" />
-          <folding>
-            <element signature="e#27204#27205#0" expanded="true" />
-            <element signature="e#27237#27238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -911,17 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="724" column="44" lean-forward="true" selection-start-line="724" selection-start-column="44" selection-end-line="724" selection-end-column="44" />
-          <folding>
-            <element signature="e#21079#21080#0" expanded="true" />
-            <element signature="e#21153#21154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/capter4_stream/ToListCollector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10">
@@ -986,22 +928,164 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="136" column="61" selection-start-line="136" selection-start-column="61" selection-end-line="136" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/FutureTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="396">
+          <caret line="118" column="5" lean-forward="true" selection-start-line="104" selection-end-line="118" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3652#3653#0" expanded="true" />
-            <element signature="e#3730#3731#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+            <element signature="e#1698#1699#0" expanded="true" />
+            <element signature="e#1722#1723#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/exmple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="-1320">
+          <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/future/StreamFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="262" column="27" selection-start-line="262" selection-start-column="27" selection-end-line="262" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#5297#5298#0" expanded="true" />
+            <element signature="e#2433#2434#0" expanded="true" />
+            <element signature="e#2464#2465#0" expanded="true" />
+            <element signature="e#2496#2497#0" expanded="true" />
+            <element signature="e#2524#2525#0" expanded="true" />
+            <element signature="e#2570#2571#0" expanded="true" />
+            <element signature="e#2605#2606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/Month.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="111" column="12" lean-forward="true" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="547" column="25" selection-start-line="547" selection-start-column="25" selection-end-line="547" selection-end-column="25" />
+          <folding>
+            <element signature="e#27204#27205#0" expanded="true" />
+            <element signature="e#27237#27238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="330" lean-forward="true" selection-start-line="330" selection-end-line="330" />
+          <folding>
+            <element signature="e#11996#11997#0" expanded="true" />
+            <element signature="e#12027#12028#0" expanded="true" />
+            <element signature="e#21079#21080#0" expanded="true" />
+            <element signature="e#21153#21154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="1404" column="24" lean-forward="true" selection-start-line="1404" selection-start-column="24" selection-end-line="1404" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/temporal/ChronoField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3574">
+          <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/Duration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-670">
+          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/Instant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="206" column="19" selection-start-line="206" selection-start-column="19" selection-end-line="206" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="139" column="27" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="27" />
+          <folding>
+            <element signature="e#33313#33314#0" expanded="true" />
+            <element signature="e#33351#33352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/temporal/TemporalAdjusters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="138" column="30" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/temporal/TemporalAdjuster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/time/OffsetDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="275" column="52" lean-forward="true" selection-start-line="275" selection-start-column="52" selection-end-line="275" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/Time/ChangeTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="143" column="32" selection-start-line="143" selection-start-column="32" selection-end-line="143" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_new_feature/java8/Time/SimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

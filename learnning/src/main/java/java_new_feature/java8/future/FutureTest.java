@@ -1,5 +1,7 @@
 package java_new_feature.java8.future;
 
+import lombok.Data;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
@@ -58,8 +60,8 @@ public class FutureTest {
 
 }
 
+@Data
 class Shop {
-
 
 
     private String name ;
@@ -69,8 +71,9 @@ class Shop {
     }
 
 
+
     public double getPrice(String product){
-        return 0;
+        return  calculatePrice(product);
     }
 
     public Future<Double> getPriceAsync(String product){
@@ -101,7 +104,7 @@ class Shop {
 
 
     private double calculatePrice(String product) {
-        delay();
+        delay(); //休眠一秒
         Random random = new Random();
         return random.nextDouble() * product.charAt(0) + product.charAt(1);
     }
@@ -115,17 +118,7 @@ class Shop {
         }
     }
 
-    /*public List<String> findPrices(String product) {
-        List<CompletableFuture<String>> priceFutures =
-                shops.stream()
-                        .map(shop -> CompletableFuture.supplyAsync(
-                                () -> shop.getName() + " price is " +
-                                        shop.getPrice(product)))
-                        .collect(toList());
-        return priceFutures.stream()
-                .map(CompletableFuture::join)
-                .collect(toList());
-    }*/
+
 
 }
 
