@@ -172,7 +172,7 @@ public class practice {
 
         //由数组创建流
         int[] numbers = {2, 3, 5, 7, 9, 11, 13};
-        System.out.println("sum:" + Arrays.stream(numbers).sum());
+        System.out.println("kotlin.basic.sum:" + Arrays.stream(numbers).sum());
 
 
 

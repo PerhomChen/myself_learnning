@@ -74,7 +74,7 @@ public class stream {
         List<String> title = Arrays.asList("java8", "In", "Action");
         Stream<String> s = title.stream();
         s.forEach(a -> System.out.print(a + " "));
-        //Exception in thread "main" java.lang.IllegalStateException: stream has already been operated upon or closed
+        //Exception in thread "kotlin.basic.main" java.lang.IllegalStateException: stream has already been operated upon or closed
         // s.forEach(System.out::println);
         System.out.println();
         System.out.println("-------------------------");
